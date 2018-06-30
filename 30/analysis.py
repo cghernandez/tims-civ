@@ -1,6 +1,9 @@
 import os
 import pandas as pd
 
+#THIS FILE STORES EACH SIMULATION'S OUTPUT IN A PANDAS DATAFRAME,
+#TO EXTRACT MEAN AND STANDARD DEVIATION
+
 archivos = os.listdir()
 archivos.remove("WORLDMAP.txt")
 
