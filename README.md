@@ -6,7 +6,7 @@ civniu.py -> Main simulation program (Read comments in the file)
 
 miscript.sh -> Bash script to run many instances of niuciv sequentially, and store their results on txt files
 
-analysis.py -> Python script that reads the txt output files, calculates the mean and standard deviation of the parameters and stores them on the file MEANS and STDEV
+analysis.py -> Python script that reads the txt output files, calculates the mean and standard deviation of the parameters and stores them on the file MEANS and STDEVS
 
 
 In the directory:
